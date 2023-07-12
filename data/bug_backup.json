@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "OcdBb",
+    "title": "Button",
+    "description": "problem when clicking button",
+    "createdAt": 1542107359454,
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ],
+    "severity": 2
+  },
+  {
+    "_id": "U3Feb",
+    "title": "Error while watching",
+    "description": "problem when clicking play",
+    "createdAt": 1542107359454,
+    "labels": [
+      "critical",
+      "need-CR"
+    ],
+    "severity": 2
+  },
+  {
+    "_id": "g28bX",
+    "title": "Warning appears",
+    "description": "warning appears when clicking edit",
+    "createdAt": 1542107359454,
+    "labels": [
+      "dev-branch"
+    ],
+    "severity": 3
+  }
+]
